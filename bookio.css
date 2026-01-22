@@ -5,6 +5,9 @@ body,
 	background-color: #f6f7f5; 
 }
 
+#header {
+	display: none;
+}
 /*
   Definition of: 
   
